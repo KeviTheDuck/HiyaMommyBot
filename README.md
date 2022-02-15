@@ -29,5 +29,5 @@ Extras:
 ## Packages used:
 
 * [python-telegram-bot](https://pypi.org/project/python-telegram-bot/)
-* [anime-images-](https://pypi.org/project/anime-images-api/)
+* [anime-images-api](https://pypi.org/project/anime-images-api/)
 
