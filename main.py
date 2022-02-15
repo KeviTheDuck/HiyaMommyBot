@@ -120,8 +120,10 @@ def main():
     dp.add_error_handler(error_handler)
     updater.start_polling()
     updater.idle()
+
+keep_alive()
     
 if __name__ == '__main__':
     main()
 
-keep_alive()
+
